@@ -156,3 +156,4 @@ print(resultado)  # Resultado: True
 
 ##### Solución
 ...
+El link del archivo del reto 12 al usarse no envía ningún archivo, dice que no hay un archivo.
